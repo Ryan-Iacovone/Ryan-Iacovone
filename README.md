@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Ryan</h1>
+<h1 align="center">Hi, I'm Ryan Iacovone 👷🏼‍♂️</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryan-iacovone&label=Profile%20views&color=0e75b6&style=flat" alt="ryan-iacovone" /> </p>
 
@@ -8,7 +6,7 @@
 <p align="left">
 </p>
 
-<h3 align="left">Favorite Languages and Libraries:</h3>
+<h3 style="text-align: left; color: #000080;">Favorite Languages and Libraries:</h3>
 
 <p align="left"> <a  
 href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRCwUA6WTc9s6gtkSSpoeh0Y50NUH5zGTXMA&usqp=CAU" alt="R" width="65" height="65"/> </a> <a
