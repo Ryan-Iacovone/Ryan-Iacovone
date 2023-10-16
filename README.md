@@ -8,7 +8,7 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Favorite Languages and Libraries:</h3>
 
 <p align="left"> <a  
 href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRCwUA6WTc9s6gtkSSpoeh0Y50NUH5zGTXMA&usqp=CAU" alt="R" width="65" height="65"/> </a> <a
