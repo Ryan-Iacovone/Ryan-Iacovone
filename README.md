@@ -2,8 +2,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ryan-iacovone&label=Profile%20views&color=0e75b6&style=flat" alt="ryan-iacovone" /> </p>
 
-
-
 <h3 style="text-align: left; color: #000080;">Favorite Languages and Libraries:</h3>
 
 <p align="left"> <a  
@@ -19,8 +17,6 @@ href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="htt
 href="https://www.sas.com/en_us/learn/academic-programs.html" target="_blank" rel="noreferrer"> <img src="https://static.javatpoint.com/tutorial/sas/images/sas-tutorial.png" alt="SAS" width="65" height="65"/> </a> <a                                      
 href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="65" height="65"/> </a> 
 
-
 <h3 align="left">Github Stats:</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ryan-iacovone&theme=github-dark-dimmed&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&type=png&fire=EB5454)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=ryan-iacovone&theme=windows-dark&mode=weekly)](https://git.io/streak-stats)
